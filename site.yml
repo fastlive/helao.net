@@ -1,0 +1,16 @@
+title : 胡言乱语
+tagline: 随机的傻瓜 
+author :
+  name : 王成
+  email : feiyan35488@gmail.com
+  github : feiyan35488
+  twitter : feiyan35488
+  feedburner : feiyan35488
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  - pages.html
+  - about.md
+  
