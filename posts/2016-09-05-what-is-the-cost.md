@@ -2,6 +2,7 @@
 title: 什么是成本
 date: '2016-09-05 17:58:58'
 description: 了解各种成本的区别，让自己的决策更加高效
+permalink:2016/what-is-the-cost.html
 categories:
 - 概念
 tags:
