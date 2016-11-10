@@ -1,15 +1,16 @@
 ---
 date:2016-11-10 12:47:17
 layout:post
-title:学习android
+title:这两周学习android的总结
 permalink:2016/learn-android.html
 categories:
 - 技术
 tags:
----
 - android
+---
 
 学习android两个星期了，总结下自己的知识点
+
 1. 开发环境和构建工具 ， android studio和gradle
 2. 项目结构， 类文件、资源、多模块等
 3. 运行项目，跑一个demo-activity, 测试各种view组件， 感想： activity 中的view是可以动态更新的，activity有生命周期
@@ -21,6 +22,7 @@ tags:
 9. 熟悉了 mvp等开发模式，有助力业务逻辑清楚
 
 还需要学习的知识点
+
 1. 掌握各种传感器的使用
 2. 掌握上拉加载更多和下拉刷新等组件
 3. 各种菜单
