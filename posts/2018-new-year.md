@@ -6,8 +6,7 @@ permalink: 2018/how-to-run.html
 categories:
 - 感想
 tags:
-- 英语
 ---
 
 ### 2018已来 ###
-
+加速前行
