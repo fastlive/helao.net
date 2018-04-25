@@ -1,7 +1,11 @@
 {{#is_active_page }}
-  <li class="active"><a href="{{url}}" class="active">{{title}}</a></li>
+	  <li class="nav-item">
+        <a class="nav-link" href="{{url}}">{{title}}</a>
+      </li>
 {{/is_active_page}}
 
 {{^is_active_page}}
-  <li><a href="{{url}}">{{title}}</a></li>
+   <li class="nav-item">
+        <a class="nav-link" href="{{url}}">{{title}}</a>
+      </li>
 {{/is_active_page }}
