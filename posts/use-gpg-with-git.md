@@ -29,3 +29,5 @@ tags:
     git config user.signingkey 98A8D73449878FED
   ```
 * 正常提交commit 即可，push后在github上即可看到 ```verified``` 标识
+
+
